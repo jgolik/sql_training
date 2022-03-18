@@ -1,6 +1,6 @@
--- INSERT INTO public.cars(
--- 	vin, model, type_id, color, driver_id, volume, power)
--- 	VALUES ('55', 'ford mustang', 123,'green' , 96042709027, '2300', '280');
+INSERT INTO public.cars(
+vin, model, type_id, color, driver_id, volume, power)
+VALUES ('55', 'ford mustang', 123,'green' , 96042709027, '2300', '280');
 
 -- select avg(power) 
 -- from cars
