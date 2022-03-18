@@ -1,0 +1,10 @@
+1. Oblicz średnią moc zielonych samochodów
+2. Oblicz liczbę wystąpień leona
+3. Przedstaw w tabeli liczbę samochód z różnych miast
+4. Pokaż w tabeli ile jest różnych typów samochodów
+5. Pokaż w tabeli wszystkie Anny jeżdżące samochodem typu coupe mieszkające we Wrocławiu
+6. Pokaż wszystkich kierowców powyżej 30 lat
+7. Wyświetl kierowcę z największą liczbą zarejestrowanych samochód oraz te samochody
+
+
+
