@@ -41,7 +41,7 @@ where color='green';
 -- where pesel < 92031200000;
 
 
-7. WyśwShow the driver who has got the biggest numer register car and his cars.
+-- Show the driver who has got the biggest numer register car and his cars.
 
 
 SELECT *
